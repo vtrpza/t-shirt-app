@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Tee",
+    "emoji": "👕",
+    "price": 25.0,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "description": "A comfortable classic tee for everyday wear."
+  },
+  {
+    "id": "2",
+    "name": "Classic Tee Variant 1",
+    "emoji": "👕",
+    "price": 30.0,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "green"],
+    "description": "A comfortable classic tee for everyday wear."
+  },
+  {
+    "id": "3",
+    "name": "Classic Tee Variant 2",
+    "emoji": "👕",
+    "price": 35.0,
+    "sizes": ["M", "L"],
+    "colors": ["blue", "white"],
+    "description": "A comfortable classic tee for everyday wear."
+  },
+  {
+    "id": "4",
+    "name": "Classic Tee Variant 3",
+    "emoji": "👕",
+    "price": 40.0,
+    "sizes": ["S", "M", "L"],
+    "colors": ["black", "white"],
+    "description": "A comfortable classic tee for everyday wear."
+  },
+  {
+    "id": "5",
+    "name": "Classic Tee Variant 4",
+    "emoji": "👕",
+    "price": 45.0,
+    "sizes": ["S"],
+    "colors": ["red", "white"],
+    "description": "A comfortable classic tee for everyday wear."
+  },
+  {
+    "id": "6",
+    "name": "Classic Tee Variant 5",
+    "emoji": "👕",
+    "price": 50.0,
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["black", "green"],
+    "description": "A comfortable classic tee for everyday wear."
+  }
+]
